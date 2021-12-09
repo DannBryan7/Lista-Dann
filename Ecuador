@@ -1,27 +1,57 @@
 #EXTM3U
 
-#EXTINF:-1, TeleamazonasHD
+#EXTINF:-1, tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TeleAmazonas-en-vivo-Online.png"group-title="ECUADOR",TeleAmazonasHD
 http://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
 
-
-#EXTINF:-1 ,Ecuavisa
+#EXTM3U
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png"group-title="ECUADOR",EcuavisaHD_DannBryan
 http://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
 
 
-
-#EXTINF:-1 ,RTS
+#EXTM3U
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png"group-title="ECUADOR",RTS_DannBryan
 http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 
-
-#EXTINF:-1 ,Oromar tv
+#EXTM3U
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png"group-title="ECUADOR",OromarTv_DannBryan
 http://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
 
 
 
-
-#EXTINF:-1 ,Gol tv Ecuador 
+#EXTM3U
+#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector-thumbnail.png"group-title="ECUADOR",GolTV_DannBryan
 http://alv.encohd.co:39591/live/JJ831/Xrv3422/27.m3u8
 
-
-#EXTINF:-1 ,TNT sport
+#EXTM3U
+#EXTINF:-1, TNTSport_DannBryan
 http://alv.encohd.co:39591/live/JJ831/Xrv3422/99.m3u8
+
+#EXTM3U
+#EXTINF:-1, SuperCampeones_DannBryan 
+http://alv.encohd.co:39591/live/JJ831/Xrv3422/419.m3u8
+
+#EXTM3U
+#EXTINF:-1, Elchavo_DannBryan  
+http://alv.encohd.co:39591/live/JJ831/Xrv3422/39.m3u8
+
+
+#EXTM3U
+#EXTINF:-1, El chavo Animado_DannBryan 
+http://alv.encohd.co:39591/live/JJ831/Xrv3422/418.m3u8
+
+#EXTM3U
+#EXTINF:-1, La Rosa de Guadalupe_DannBryan  
+http://alv.encohd.co:39591/live/JJ831/Xrv3422/63.m3u8
+
+#EXTM3U
+#EXTINF:-1, FX_DannBryan 
+http://alv.encohd.co:39591/live/JJ831/Xrv3422/414.m3u8
+
+#EXTM3U
+#EXTINF:-1, RCNHD_DannBryan
+http://alv.encohd.co:39591/live/JJ831/Xrv3422/69.m3u8
+
+#EXTM3U
+#EXTINF:-1, AMC_DannBryan
+http://alv.encohd.co:39591/live/JJ831/Xrv3422/101.m3u8
+
