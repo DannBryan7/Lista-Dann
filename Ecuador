@@ -1,0 +1,27 @@
+#EXTM3U
+
+#EXTINF:-1, TeleamazonasHD
+http://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
+
+
+#EXTINF:-1 ,Ecuavisa
+http://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
+
+
+
+#EXTINF:-1 ,RTS
+http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
+
+
+#EXTINF:-1 ,Oromar tv
+http://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
+
+
+
+
+#EXTINF:-1 ,Gol tv Ecuador 
+http://alv.encohd.co:39591/live/JJ831/Xrv3422/27.m3u8
+
+
+#EXTINF:-1 ,TNT sport
+http://alv.encohd.co:39591/live/JJ831/Xrv3422/99.m3u8
